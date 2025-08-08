@@ -59,6 +59,6 @@ I'm a researcher based in Stuttgart, working at the intersection of data visuali
 
 ### 📫 Get in Touch
 
-* **🌐 Portfolio Website:** [www.sophiesadler.com](https://www.sophiesadler.com)
+* **🌐 Personal Website:** [www.sophiesadler.com](https://www.sophiesadler.com)
 * **💼 LinkedIn:** www.https://uk.linkedin.com/in/sophiesadler
 * **🎓 Google Scholar:** https://scholar.google.com/citations?user=MZtjY2YAAAAJ&hl=en
