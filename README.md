@@ -10,7 +10,7 @@ I'm a researcher based in Stuttgart, working at the intersection of data visuali
 
 * **Postdoctoral Researcher** at the [University of Stuttgart](https://visvar.github.io/) (VISUS, HCI Group).
 * **PhD in Explainable AI** from [Swansea University](https://cdt-aimlac.org/) (AIMLAC CDT), focusing on visual analytics and explainability for tasks with network data.
-* Industry experience as a Research Scientist Intern & Collaborator at **Meta** and an AI Resident at **Microsoft Research**.
+* Industry experience as a Research Science Intern & Collaborator at **Meta** and an AI Resident at **Microsoft Research**.
 * My academic roots are in **Mathematics** from the University of Cambridge.
 
 ---
